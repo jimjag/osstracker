@@ -14,7 +14,7 @@
     "pug": "~2.0.0-beta3",
     "log4js": "~0.6.31",
     "morgan": "~1.6.1",
-    "request": "~2.69.0",
+    "request": "~2.88.2",
     "serve-favicon": "~2.3.0"
   }
 }
